@@ -1,0 +1,31 @@
+#sound1
+{
+    height : 250px;
+    width : 250px;
+}
+body
+{
+    background-color: lightsteelblue;
+}
+h1
+{
+    color : white;
+    background-color: steelblue;
+    font-size: xx-large;
+}
+#start_button
+{
+    background-color: steelblue;
+    color : white;
+    border-style: dashed;
+    height : 50px;
+    width : 100px;
+    font-size: larger;
+}
+footer
+{
+  text-align: center;
+  width : 100%;
+  font-size : large;
+  color : steelblue;
+}
